@@ -1,0 +1,39 @@
+body {
+    background-color: aquamarine;
+}
+
+.cuadrado1{
+    background-color: #FF0000;
+    width: 200px;
+    height: 200px;
+}
+.cuadrado2{
+    background-color: #FF0033;
+    width: 200px;
+    height: 200px;
+}
+.cuadrado3{
+    background-color: #FF0066;
+    width: 200px;
+    height: 200px;
+}
+.cuadrado4{
+    background-color: #FF0099;
+    width: 200px;
+    height: 200px;
+}
+.cuadrado5{
+    background-color: #FF00CC;
+    width: 200px;
+    height: 200px;
+}
+.cuadrado6{
+    background-color: #FF00cc;
+    width: 200px;
+    height: 200px;
+}
+
+footer {
+    background-color: cadetblue;
+    height: 50px;
+}
