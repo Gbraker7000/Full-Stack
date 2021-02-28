@@ -1,0 +1,32 @@
+.titulo{
+    background-color: cornflowerblue;
+    width: 200px;
+}
+
+.cuadrado1{
+    background-color: lightsalmon;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+
+}
+.cuadradoimagen{
+    background-color: skyblue;
+    width: 270px;
+    height: 200px;
+}
+.cuadradotabla{
+    background-color: lightcoral;
+    width: 200px;
+    height: 200px;
+}
+.cuadradolista{
+    background-color:lightgreen;
+    width: 200px;
+    height: 200px;
+}
+.ancla{
+    background-color: lightseagreen;
+    width: 200px;
+    height: 200px;
+}
